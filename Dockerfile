@@ -1,4 +1,4 @@
-FROM java:8
+FROM openjdk:8
 MAINTAINER Alberto Grespan <alberto.grespan@full360.com>
 
 # Export the VOLTDB_VERSION, VOLTDB_DIR and binaries to the PATH
